@@ -1,3 +1,6 @@
+There are 2 files, one checks follower data one by one and the other does 20 at a time (TTscraperFAST), the faster one can crash sometimes though... ehh it'll be fine 
+
+
 HOW TO USE
 --------------
 1. Download your data from TikTok as a TXT NOT JSON (im dumb with JSON )      (im also not explaining allat js look it up sry)
